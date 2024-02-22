@@ -1,4 +1,4 @@
-Creates used: actix-web,serde,serde_json
+Crates used: actix-web,serde,serde_json
 
 Routes:
 - GET / -> "Hello, world!"
